@@ -13,7 +13,7 @@ Bachelor’s Degree in Electrical Engineering with IT concentration.
 
 📚 **Skills**:  
 - **Technical**: Python, TensorFlow, PyTorch, SQL, TensorRT, MATLAB.  
-- **AI & ML**: Machine Learning, Neural Networks, Natural Language Processing.  
+- **AI & ML**: Machine Learning, Deep Learning, Neural Networks, Computer Vision.  
 - **Soft Skills**: Problem-solving, teamwork, adaptability.  
 
 
