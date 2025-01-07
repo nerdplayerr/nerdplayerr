@@ -1,6 +1,19 @@
 <h1>Hi 👋, I'm Hafiz Alifian Aqsha</h1>
 <p>A passionate Artificial Intelligence Engineer</p>
-### 🚀 About Me  <br>🌟 **Current Focus**: Developing skills and applying for roles as an **AI Engineer**, combining technical expertise with innovative solutions in AI and machine learning.  <br> 💼 **Professional Experience**:  <br>  **System Analyst Intern** at PT PLN, where I contributed to system optimization and data integration, laying the foundation for my interest in AI-driven analytics.  <br><br> 🎓 **Educational Background**:  <br>  Bachelor’s Degree in Electrical Engineering with IT concentration.  <br><br> 📚 **Skills**:  <br>   Technical: Python, TensorFlow, PyTorch, SQL, TensorRT, MATLAB.  <br>  AI & ML: Machine Learning, Neural Networks, Natural Language Processing.  <br>   Soft Skills: Problem-solving, teamwork, adaptability.  
+### 🚀 About Me  
+
+🌟 **Current Focus**: Developing skills and applying for roles as an **AI Engineer**, combining technical expertise with innovative solutions in AI and machine learning.  
+
+💼 **Professional Experience**:  
+**System Analyst Intern** at PT PLN, where I contributed to system optimization and data integration, laying the foundation for my interest in AI-driven analytics.  
+
+🎓 **Educational Background**:  
+Bachelor’s Degree in Electrical Engineering with IT concentration.  
+
+📚 **Skills**:  
+- **Technical**: Python, TensorFlow, PyTorch, SQL, TensorRT, MATLAB.  
+- **AI & ML**: Machine Learning, Neural Networks, Natural Language Processing.  
+- **Soft Skills**: Problem-solving, teamwork, adaptability.  
 
 
 ## 🌐 Socials:
